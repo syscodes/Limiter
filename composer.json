@@ -1,7 +1,7 @@
 {
-	"name": "syscodes/throttlelimiter",
-	"description": "The Syscodes Throttle Limiter package.",
-	"keywords": ["lenevor","throttle", "limiter"],
+	"name": "syscodes/limiter",
+	"description": "The Syscodes Limiter package.",
+	"keywords": ["lenevor","limiter"],
 	"license": "BSD-3-Clause",
 	"homepage": "https://lenevor.com",
 	"support": {
@@ -22,7 +22,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Syscodes\\Components\\throttlelimiter\\": ""
+			"Syscodes\\Components\\Limiter\\": ""
 		}
 	},
 	"minimum-stability": "dev",
